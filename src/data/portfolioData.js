@@ -13,7 +13,7 @@ export const personalInfo = {
   social: {
     github: "https://github.com/mohsin-shk",
     linkedin: "https://www.linkedin.com/in/mohsin-shaikh2002/",
-    portfolio: ""
+    portfolio: "https://mohsin-shaikh.netlify.app/"
   }
 };
 
@@ -45,7 +45,7 @@ export const projects = [
   {
     id: 1,
     title: "Documind",
-    description: "An AI powered Intelligent Document analyser platform. RAG pipline built to extract text and chunk them semantically. Pinecone Vector storage granting semantic search and build context for AI system to answer grounded user queries.Context aware and chat about document using open ai's gpt-4.1-mini model.",
+    description: "A full-stack AI-powered document analysis platform where users can upload documents and interact with them through a chat interface — asking questions, generating summaries, and comparing multiple documents. Built on a RAG pipeline using OpenAI embeddings and Pinecone for semantic retrieval, the platform grounds every AI response in the actual document content rather than hallucinated answers.",
     image: "/documind_2.png",
     technologies: ["Open AI", "Pinecone", "Vector DB", "RAG","Langchain","Cloudinary","Node.js","React"],
     liveUrl: "https://docu-mind-front-end-iota.vercel.app/",
@@ -59,7 +59,7 @@ export const projects = [
     image: "/video_tube.png",
     technologies: ["React", "Mongo DB", "Tailwind CSS", "API",'Express','Node.js'],
     liveUrl: "",
-    githubUrl: "https://github.com/mohsin-shk/Movie-Search-App",
+    githubUrl: "https://github.com/mohsin-shk/videoTube-fe",
     featured: true
   },
   {
