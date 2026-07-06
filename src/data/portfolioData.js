@@ -9,7 +9,7 @@ export const personalInfo = {
   location: "Mumbai",
   email: "mohsin022520@gmail.com",
   phone: "+91 9321830576",
-  resume: "/Mohsin_Resume.pdf",
+  resume: "/Resume_Mohsin_Shaikh.pdf",
   social: {
     github: "https://github.com/mohsin-shk",
     linkedin: "https://www.linkedin.com/in/mohsin-shaikh2002/",
